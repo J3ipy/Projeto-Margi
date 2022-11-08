@@ -45,7 +45,7 @@ body {
 @media (max-width: 450px) {
     .player {
         top: 10;
-        margin-top: 180px;
+        margin-top: 150px;
     }
 }
 
