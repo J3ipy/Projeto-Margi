@@ -1,4 +1,4 @@
-## Repo para aula de quinta-feira
+## Repositório para aula de quinta-feira
 > Material de apoio
 
 ### Links úteis
