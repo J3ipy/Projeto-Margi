@@ -1,4 +1,4 @@
-## Repositório para aula de quinta-feira
+## Repositório para o projeto da Margi
 > Material de apoio
 
 ### Links úteis
